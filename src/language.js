@@ -1,0 +1,86 @@
+
+export const translations = {
+  English: {
+    dashboard: "Dashboard",
+    cropGuide: "Crop Guide",
+    marketPrices: "Market Prices",
+    weather: "Weather",
+    farmingTips: "Farming Tips",
+    logout: "Logout",
+    welcome: "Welcome",
+    services: "Your Farming Services",
+    voiceAssistant: "Voice Assistant",
+    listen: "Listen",
+    speak: "Speak",
+    search: "Search crops",
+    farmerDashboard: "Farmer Dashboard",
+    adminDashboard: "Admin Dashboard",
+    manageFarmers: "Manage Farmers",
+    manageCrops: "Manage Crops",
+    announcements: "Announcements"
+  },
+  Telugu: {
+    dashboard: "డాష్‌బోర్డ్",
+    cropGuide: "పంటల సమాచారం",
+    marketPrices: "మార్కెట్ ధరలు",
+    weather: "వాతావరణం",
+    farmingTips: "వ్యవసాయ సూచనలు",
+    logout: "లాగ్ అవుట్",
+    welcome: "స్వాగతం",
+    services: "మీ వ్యవసాయ సేవలు",
+    voiceAssistant: "వాయిస్ సహాయకుడు",
+    listen: "వినండి",
+    speak: "మాట్లాడండి",
+    search: "పంటలను వెతకండి",
+    farmerDashboard: "రైతు డాష్‌బోర్డ్",
+    adminDashboard: "అడ్మిన్ డాష్‌బోర్డ్",
+    manageFarmers: "రైతుల నిర్వహణ",
+    manageCrops: "పంటల నిర్వహణ",
+    announcements: "ప్రకటనలు"
+  },
+  Hindi: {
+    dashboard: "डैशबोर्ड",
+    cropGuide: "फसल जानकारी",
+    marketPrices: "बाजार भाव",
+    weather: "मौसम",
+    farmingTips: "खेती के सुझाव",
+    logout: "लॉग आउट",
+    welcome: "स्वागत है",
+    services: "आपकी कृषि सेवाएं",
+    voiceAssistant: "वॉइस सहायक",
+    listen: "सुनें",
+    speak: "बोलें",
+    search: "फसल खोजें",
+    farmerDashboard: "किसान डैशबोर्ड",
+    adminDashboard: "एडमिन डैशबोर्ड",
+    manageFarmers: "किसान प्रबंधन",
+    manageCrops: "फसल प्रबंधन",
+    announcements: "घोषणाएं"
+  },
+  Tamil: {
+    dashboard: "டாஷ்போர்டு",
+    cropGuide: "பயிர் விவரங்கள்",
+    marketPrices: "சந்தை விலைகள்",
+    weather: "வானிலை",
+    farmingTips: "விவசாய குறிப்புகள்",
+    logout: "வெளியேறு",
+    welcome: "வரவேற்கிறோம்",
+    services: "உங்கள் விவசாய சேவைகள்",
+    voiceAssistant: "குரல் உதவியாளர்",
+    listen: "கேளுங்கள்",
+    speak: "பேசுங்கள்",
+    search: "பயிர்களைத் தேடுங்கள்",
+    farmerDashboard: "விவசாயி டாஷ்போர்டு",
+    adminDashboard: "நிர்வாக டாஷ்போர்டு",
+    manageFarmers: "விவசாயிகள் மேலாண்மை",
+    manageCrops: "பயிர்கள் மேலாண்மை",
+    announcements: "அறிவிப்புகள்"
+  }
+};
+
+export const speechLanguages = {
+  English: "en-IN",
+  Telugu: "te-IN",
+  Hindi: "hi-IN",
+  Tamil: "ta-IN"
+};
